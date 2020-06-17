@@ -1,4 +1,6 @@
 # TEAM7_project_inception_final
+![hanasu](https://user-images.githubusercontent.com/62981406/84929254-86f1bc00-b10a-11ea-8bc8-c1223cfe1684.png)
+
 https://www.youtube.com/watch?v=ZD0gD_CY3b4
 게임 시작 전에 봐주세요! 게임 소개 영상입니다:)
 

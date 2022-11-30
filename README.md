@@ -1,4 +1,4 @@
-# TEAM7_project_inception_final
+# escape_room
 
 안녕하세요:) Hanasu 팀입니다. 
 
